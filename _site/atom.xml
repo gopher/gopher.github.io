@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>The blog of Adventures in Go</title>
+ <link href="http://gopher.github.io/atom.xml" rel="self"/>
+ <link href="http://gopher.github.io"/>
+ <updated>2014-10-11T13:05:58-04:00</updated>
+ <id>http://gopher.github.io</id>
+ <author>
+   <name>Adventures in Go</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>initial commit</title>
+   <link href="http://gopher.github.io/blog/2014/10/10/initial-commit.html"/>
+   <updated>2014-10-10T00:00:00-04:00</updated>
+   <id>http://gopher.github.io/blog/2014/10/10/initial-commit</id>
+   <content type="html">&lt;h1 id=&quot;something-will-appear-here-shorty&quot;&gt;Something will appear here shorty&lt;/h1&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
